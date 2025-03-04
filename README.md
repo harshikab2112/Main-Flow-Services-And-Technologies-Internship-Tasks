@@ -15,11 +15,11 @@ This repository documents the progress, assignments, and projects undertaken dur
 
 ## 🚀 Technologies Used
 The following technologies and tools are utilized during this internship:
-- **Programming Languages**: Python, JavaScript
-- **Frameworks & Libraries**: React.js, Node.js, Django
-- **Version Control**: Git & GitHub
-- **Database**: MySQL, MongoDB
-- **Other Tools**: Docker, Postman, CI/CD Pipelines
+- Frontend: HTML, CSS, JavaScript, React.js
+- Backend: Node.js, Django, Python
+- Version Control: Git & GitHub
+- Database: MySQL, MongoDB
+- Other Tools: Docker, Postman, CI/CD Pipelines
 
 ## 📝 Task List
 - [ ] Task 1 - Landing Page using HTML & CSS
