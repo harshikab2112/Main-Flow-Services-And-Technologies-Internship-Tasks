@@ -23,14 +23,6 @@ The following technologies and tools are utilized during this internship:
 
 ## 📝 Task List
 - [ ] Task 1 - Landing Page using HTML & CSS
-- [ ] Task 2 - Description of the second task
-- [ ] Task 3 - Ongoing/Upcoming tasks
-- [ ] Final Project - Comprehensive project for the internship
-- [ ] Task 1 - Description of the first task
-- [ ] Task 2 - Description of the second task
-- [ ] Task 3 - Ongoing/Upcoming tasks
-- [ ] Final Project - Comprehensive project for the internship
-
 
 ## 🔗 Links
 - [Task 1 - Landing Page using HTML & CSS](https://bloomfiesta.netlify.app/)  
