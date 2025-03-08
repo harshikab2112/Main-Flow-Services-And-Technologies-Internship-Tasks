@@ -1,4 +1,4 @@
-# Task 1: Landing Page using HTML and CS
+# Task 1: Landing Page using HTML and CSS
 
 ## Overview
 This project is a simple and responsive landing page built using **HTML** and **CSS**. The goal is to create an attractive and functional design that showcases a product, service, or business.
