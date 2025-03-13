@@ -87,19 +87,19 @@ Task 2/
 Here are some screenshots of the project:
 
 ### Main Page
-![Logout Page](Screenshot%204.png)
+![Main Page](Screenshots/Screenshot1.png)
 
 ### Login Page
-![Login Page](Screenshot%202.png)
+![Login Page](Screenshots/Screenshot2.png)
 
 ### Signup Page
-![Signup Page](Screenshot%203.png)
+![Signup Page](Screenshots/Screenshot3.png)
 
 ### Welcome Dashboard
-![Dashboard](Screenshot%204.png)
+![Welcome Dashboard](Screenshots/Screenshot4.png)
 
 ### Go to dashboard or Log-out page
-![Database Setup](Screenshot%205.png)
+![Go to dashboard or Log-out page](Screenshots/Screenshot5.png)
 
 
 ## License
