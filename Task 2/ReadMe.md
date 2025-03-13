@@ -82,6 +82,26 @@ Task 2/
 - Password reset functionality
 - Improved UI with animations
 
+## Screenshots
+
+Here are some screenshots of the project:
+
+### Main Page
+![Logout Page](Screenshot%204.png)
+
+### Login Page
+![Login Page](Screenshot%202.png)
+
+### Signup Page
+![Signup Page](Screenshot%203.png)
+
+### Welcome Dashboard
+![Dashboard](Screenshot%204.png)
+
+### Go to dashboard or Log-out page
+![Database Setup](Screenshot%205.png)
+
+
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
