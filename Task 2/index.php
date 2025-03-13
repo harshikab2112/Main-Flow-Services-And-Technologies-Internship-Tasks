@@ -13,7 +13,7 @@ session_start();
     <link rel="stylesheet" href="style.css">
     <style>
         .hero-section {
-            background: url('images/perfume-bg.jpg') no-repeat center center/cover;
+            background: url('images/perfume-bg.webp') no-repeat center center/cover;
             height: 100vh;
             display: flex;
             align-items: center;
