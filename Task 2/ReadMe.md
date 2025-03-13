@@ -1,63 +1,91 @@
 # Task 2: Login and Signup System using PHP and MySQL
 
 ## Overview
-This project is a user authentication system that allows users to register and log in securely. It is built using PHP and MySQL, with a focus on security and usability.
+
+Fusion Portion is a simple web-based authentication system that allows users to register, log in, and log out securely. It features a responsive design with a visually appealing user interface for an enhanced user experience.
 
 ## Features
-- Secure user registration and login
-- Password hashing for security
-- Error handling and form validation
-- Session management for user authentication
-- Responsive design for different devices
+
+- User Registration (Signup)
+- User Login & Authentication
+- Logout Functionality
+- Responsive Design
+- Navigation Bar for Easy Access
+- Welcome Page with Dashboard
 
 ## Technologies Used
-- **PHP**: Server-side scripting language for backend processing
-- **MySQL**: Database for storing user credentials
-- **HTML5 & CSS3**: Frontend structure and styling
-- **XAMPP**: Local development environment
 
-## Installation & Setup
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/your-username/Main-Flow-Services-And-Technologies-Internship-Tasks.git
-   ```
-2. **Navigate to the project folder:**
-   ```sh
-   cd Main-Flow-Services-And-Technologies-Internship-Tasks/Task 2
-   ```
-3. **Start XAMPP and enable Apache & MySQL.**
-4. **Create the database:**
-   - Open `phpMyAdmin` and create a new database named `user_auth`.
-   - Import the `database.sql` file provided in the project.
-5. **Run the project:**
-   - Place the project folder inside the `htdocs` directory of XAMPP.
-   - Open `http://localhost/Task2` in your browser.
+- **Frontend:** HTML, CSS, Bootstrap
+- **Backend:** PHP
+- **Database:** MySQL
+- **Server:** XAMPP (Apache, MySQL, PHP)
 
-## File Structure
+## Project Structure
+
 ```
 Task 2/
-│── index.php          # Homepage
-│── register.php       # User registration page
-│── login.php          # User login page
-│── logout.php         # Logout script
-│── config.php         # Database configuration
-│── dashboard.php      # User dashboard after login
-│── styles.css         # CSS for styling
-│── database.sql       # SQL file to set up the database
-│── README.md          # Project documentation
+│── Images/               # Contains project images and assets
+│── connection.php        # Database connection script
+│── index.php            # Home page
+│── login.php            # User login page
+│── logout.php           # Logout functionality
+│── navbar.php           # Navigation bar
+│── signup.php           # User signup page
+│── style.css            # Custom CSS styling
+│── welcome.php          # User dashboard
+│── README.md            # Project documentation
 ```
 
-## Live Demo
-Check out the live version of the login and signup system here: **Live Site**
+## Installation & Setup
 
-## Future Improvements
-- Implement email verification
-- Add password reset functionality
-- Improve UI with animations
-- Use prepared statements for enhanced security
+1. **Clone the repository**
 
-## Author
-Harshika Bansal
+   ```bash
+   git clone https://github.com/harshikab2112/Main-Flow-Services-And-Technologies-Internship-Tasks.git
+   ```
+
+2. **Move to the project directory**
+
+   ```bash
+   cd Main-Flow-Services-And-Technologies-Internship-Tasks/Task 2
+   ```
+
+3. **Set up the database**
+
+   - Open **phpMyAdmin** ([http://localhost/phpmyadmin](http://localhost/phpmyadmin))
+   - Create a new database (e.g., `fusion_portion`)
+   - Import the provided **database.sql** file
+
+4. **Configure the database connection**
+
+   - Open `connection.php`
+   - Update the database credentials as needed:
+     ```php
+     $host = 'localhost';
+     $username = 'root';
+     $password = '';
+     $database = 'db';
+     ```
+
+5. **Start XAMPP and run the project**
+
+   - Start **Apache** and **MySQL** from the XAMPP Control Panel
+   - Open a browser and go to:
+     ```
+     http://localhost/Task%202/index.php
+     ```
+
+## Future Enhancements
+
+- Password hashing for better security
+- Email verification during signup
+- Password reset functionality
+- Improved UI with animations
 
 ## License
-This project is open-source and available under the MIT License.
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+Made with ❤️ by Harshika Bansal
