@@ -13,13 +13,13 @@ This repository documents the progress, assignments, and projects undertaken dur
 ├── README.md    # Repository guide
 ```
 
-## 🚀 Technologies Used
-The following technologies and tools are utilized during this internship:
-- Frontend: HTML, CSS, JavaScript, React.js
-- Backend: Node.js, Django, Python
+🚀 Technologies Used
+- The following technologies and tools are utilized during this internship:
+- Frontend: HTML, CSS, JavaScript, Bootstrap
+- Backend: PHP
 - Version Control: Git & GitHub
-- Database: MySQL, MongoDB
-- Other Tools: Docker, Postman, CI/CD Pipelines
+- Database: MySQL
+- Other Tools: XAMPP
 
 ## 📝 Task List
 - [ ] Task 1 - Landing Page using HTML & CSS
@@ -49,4 +49,3 @@ If you are part of the internship team, feel free to contribute:
 For any queries or discussions, reach out via email or through the internal communication channels.
 
 Happy Coding! 🚀
-
