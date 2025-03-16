@@ -23,10 +23,11 @@ The following technologies and tools are utilized during this internship:
 
 ## 📝 Task List
 - [ ] Task 1 - Landing Page using HTML & CSS
+- [ ] Task 2 - Login and Signup Page Using PHP and MYSQL
 
 ## 🔗 Links
 - [Task 1 - Landing Page using HTML & CSS](https://bloomfiesta.netlify.app/)  
-- [Project Website](#)
+- [Task 2 - Login and Signup Page Using PHP and MYSQL]()
 - [Project Website](#)
 
 ## 📖 Learning Outcomes
