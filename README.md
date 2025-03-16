@@ -27,7 +27,7 @@ This repository documents the progress, assignments, and projects undertaken dur
 
 ## 🔗 Links
 - [Task 1 - Landing Page using HTML & CSS](https://bloomfiesta.netlify.app/)  
-- [Task 2 - Login and Signup Page Using PHP and MYSQL]()
+- [Task 2 - Login and Signup Page Using PHP and MYSQL](https://github.com/harshikab2112/Main-Flow-Services-And-Technologies-Internship-Tasks/tree/main/Task%202)
 - [Project Website](#)
 
 ## 📖 Learning Outcomes
