@@ -9,6 +9,7 @@ This repository documents the progress, assignments, and projects undertaken dur
 ```
 ├── Task-1/      # Description and implementation of Task 1
 ├── Task-2/      # Description and implementation of Task 2
+├── Task-3/      # Description and implementation of Task 3
 ├── LICENSE      # MIT License
 ├── README.md    # Repository guide
 ```
@@ -19,16 +20,17 @@ This repository documents the progress, assignments, and projects undertaken dur
 - Backend: PHP
 - Version Control: Git & GitHub
 - Database: MySQL
-- Other Tools: XAMPP
+- Other Tools: XAMPP, Netbeans
 
 ## 📝 Task List
 - [ ] Task 1 - Landing Page using HTML & CSS
 - [ ] Task 2 - Login and Signup Page Using PHP and MYSQL
+- [ ] Task 3 - Login Page Using Netbeans IDE
 
 ## 🔗 Links
 - [Task 1 - Landing Page using HTML & CSS](https://bloomfiesta.netlify.app/)  
 - [Task 2 - Login and Signup Page Using PHP and MYSQL](https://github.com/harshikab2112/Main-Flow-Services-And-Technologies-Internship-Tasks/tree/main/Task%202)
-- [Project Website](#)
+- [Task 3 - Login Page Using Netbeans IDE](#)
 
 ## 📖 Learning Outcomes
 By working on this repository, you will:
