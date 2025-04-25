@@ -46,9 +46,9 @@ This project demonstrates a basic Java Swing application with a homepage interfa
 3. Set up a MySQL database and configure the JDBC URL.
 4. Click the Hide button to toggle the sidebar buttons.
 
-📸 Screenshots
-![Output1](Screenshot/output1.png)
-![Output2](Screenshot/output2.png)
+## 📸 Screenshots
+- ![Output1](Screenshots/output1.png)
+- ![Output2](Screenshots/output2.png)
 
-🙋‍♀️ Author
+## 🙋‍♀️ Author
 Harshika Bansal
