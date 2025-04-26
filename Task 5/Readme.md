@@ -34,10 +34,10 @@ This project demonstrates how to **add** and **delete** **Buyers** and **Product
 ---
 
 ## 📸 Screenshots
-- [Add Buyer Form](Screenshots/New%20Buyer.png)
-- [Delete Buyer Form](Screenshots/Delete%20Buyer.png)
-- [Add Product Form](Screenshots/New%20Product.png)
-- [Delete Product Form](Screenshots/Delete%20Product.png)
+- [Add Buyer Form](Screenshots/NewBuyer.png)
+- [Delete Buyer Form](Screenshots/DeleteBuyer.png)
+- [Add Product Form](Screenshots/NewProduct.png)
+- [Delete Product Form](Screenshots/DeleteProduct.png)
 
 *(Screenshots can be inserted here if available)*
 
