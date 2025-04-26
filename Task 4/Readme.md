@@ -47,8 +47,8 @@ This project demonstrates a basic Java Swing application with a homepage interfa
 4. Click the Hide button to toggle the sidebar buttons.
 
 ## 📸 Screenshots
-- ![Output1](Screenshots/output1.png)
-- ![Output2](Screenshots/output2.png)
+![Output1](Screenshots/output1.png)
+![Output2](Screenshots/output2.png)
 
 ## 🙋‍♀️ Author
 Harshika Bansal
