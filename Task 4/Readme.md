@@ -49,6 +49,7 @@ This project demonstrates a basic Java Swing application with a homepage interfa
 ## 📸 Screenshots
 ![Output1](Screenshots/output1.png)
 ![Output2](Screenshots/output2.png)
+![Output3](Screenshots/output3.png)
 
 ## 🙋‍♀️ Author
 Harshika Bansal
