@@ -244,7 +244,7 @@ public class delete_Product extends javax.swing.JFrame {
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new delete_Buyer().setVisible(true);
+                new delete_Product().setVisible(true);
             }
         });
     }
