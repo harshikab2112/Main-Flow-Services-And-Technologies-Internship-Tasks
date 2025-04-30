@@ -1,4 +1,4 @@
-# 🧾 Task 6: Generating the Bill
+# 🧾 Task 7: Generating the Bill
 
 This project demonstrates how to **generate a customer bill** using a **Java Swing GUI** designed in **NetBeans IDE**, connected to a **MySQL database** using **JDBC**.  
 It allows the user to select an existing buyer, choose products and quantities, calculate totals, and generate a formatted bill ready for display or printing.
