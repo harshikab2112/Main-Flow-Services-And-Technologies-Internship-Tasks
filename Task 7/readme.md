@@ -44,12 +44,12 @@ It allows the user to select an existing buyer, choose products and quantities, 
 
 ## 📸 Screenshot
 
-![Output1](Screenshots/output1)
-![Output2](Screenshots/output2)
-![Output3](Screenshots/output3)
-![Output4](Screenshots/output4)
-![Output5](Screenshots/output5)
-![Output6](Screenshots/output6)
+![Output1](Screenshots/output1.png)
+![Output2](Screenshots/output2.png)
+![Output3](Screenshots/output3.png)
+![Output4](Screenshots/output4.png)
+![Output5](Screenshots/output5.png)
+![Output6](Screenshots/output6.png)
 
 > *Place `billing_interface.png` in an `images/` folder at the root of your repo.*  
 
