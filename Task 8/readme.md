@@ -40,15 +40,15 @@ Users can navigate through different sections to retrieve and display complete l
 ---
 
 ## 📸 Screenshots
-[Output1](Screenshots/output1.png)
-[Output2](Screenshots/output2.png)
-[Output3](Screenshots/output3.png)
-[Output4](Screenshots/output4.png)
-[Output5](Screenshots/output5.png)
-[Output6](Screenshots/output6.png)
-[Output7](Screenshots/output7.png)
-[Output8](Screenshots/output8.png)
-[Output9](Screenshots/output9.png)
+![Output1](Screenshots/output1.png)
+![Output2](Screenshots/output2.png)
+![Output3](Screenshots/output3.png)
+![Output4](Screenshots/output4.png)
+![Output5](Screenshots/output5.png)
+![Output6](Screenshots/output6.png)
+![Output7](Screenshots/output7.png)
+![Output8](Screenshots/output8.png)
+![Output9](Screenshots/output9.png)
 
 ---
 
