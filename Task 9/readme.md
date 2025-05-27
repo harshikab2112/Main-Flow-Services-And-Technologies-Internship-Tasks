@@ -55,7 +55,7 @@ This project demonstrates how to build a modern full-stack Tinder-like app, cove
 ### Steps
 
 ```bash
-git clone https://github.com/yourusername/devswipe.git
+git clone project repo link
 cd devswipe
 
 # Backend setup
@@ -108,9 +108,3 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 * AI-powered match suggestions
 * Push notifications for messages and matches
 * Group chats and forums
-
----
-
-## Contribution
-
-Contributions welcome! Fork the repo and submit pull requests.
