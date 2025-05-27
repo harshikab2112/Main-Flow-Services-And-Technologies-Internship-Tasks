@@ -15,6 +15,7 @@ This repository documents the progress, assignments, and projects undertaken dur
 ├── Task-6/      # Description and implementation of Task 6
 ├── Task-7/      # Description and implementation of Task 7
 ├── Task-8/      # Description and implementation of Task 8
+├── Task-9/      # Description and implementation of Task 9
 ├── LICENSE      # MIT License
 ├── README.md    # Repository guide
 ```
@@ -36,6 +37,7 @@ This repository documents the progress, assignments, and projects undertaken dur
 - [ ] Task 6 - Update and Search Products/Buyers
 - [ ] Task 7 - Generating the Bill
 - [ ] Task 8 - Viewing Details of Buyers, Products, and Transactions
+- [ ] Task 9 - Project: "DevSwipe" — A Tinder-Inspired Platform
 
 ## 🔗 Links
 - [Task 1 - Landing Page using HTML & CSS](https://bloomfiesta.netlify.app/)  
@@ -46,6 +48,7 @@ This repository documents the progress, assignments, and projects undertaken dur
 - [Task 6 - Update and Search Products/Buyers](https://github.com/harshikab2112/Main-Flow-Services-And-Technologies-Internship-Tasks/tree/main/Task%206)
 - [Task 7 - Generating the Bill](https://github.com/harshikab2112/Main-Flow-Services-And-Technologies-Internship-Tasks/tree/main/Task%207)
 - [Task 8 - Viewing Details of Buyers, Products, and Transactions](https://github.com/harshikab2112/Main-Flow-Services-And-Technologies-Internship-Tasks/tree/main/Task%208)
+- [Task 9 - Project: "DevSwipe" — A Tinder-Inspired Platform]()
 
 ## 📖 Learning Outcomes
 By working on this repository, you will:
