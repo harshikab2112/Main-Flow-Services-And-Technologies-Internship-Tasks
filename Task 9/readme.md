@@ -56,7 +56,7 @@ This project demonstrates how to build a modern full-stack Tinder-like app, cove
 
 ```bash
 git clone project repo link
-cd devswipe
+git clone https://github.com/your-username/Main-Flow-Services-And-Technologies-Internship-Tasks.git
 
 # Backend setup
 cd backend
